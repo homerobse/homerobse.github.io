@@ -1,3 +1,5 @@
 https://github.com/isaacmenchaca/isaacmenchaca.github.io
 https://dalinguo.github.io/
 https://sites.google.com/view/sohrabsalimian
+
+Minimal theme: https://github.com/orderedlist/minimal
